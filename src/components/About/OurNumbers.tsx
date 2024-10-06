@@ -14,7 +14,7 @@ const OurNumbers = () => {
   return (
     <div className="py-[5.5rem] px-[4rem] flex flex-col gap-[2rem] items-center justify-center">
       <span className="text-primaryColor font-[300]">Our numbers</span>
-      <p className="font-manrope text-primaryColor  lg:text-[48px] text-[28px] text-center lg:w-[70%] w-full font-[300]">
+      <p className="font-manrope text-primaryColor  lg:text-[48px] text-[32px] text-center lg:w-[70%] w-full font-[300]">
         Handshake infographic mass market crowdfunding iteration.
       </p>
       <div className="flex flex-col lg:flex-row items-center lg:gap-[12rem] gap-[3rem]">

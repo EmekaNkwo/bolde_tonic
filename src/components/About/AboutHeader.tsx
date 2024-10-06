@@ -11,7 +11,7 @@ const AboutHeader: React.FC = () => {
           <p className="font-manrope text-primaryColor text-3xl md:text-5xl md:max-w-[50%] flex-[1] w-full">
             We love to make great things, things that matter.
           </p>
-          <p className="text-sm md:text-base font-light w-full md:max-w-[50%] mt-4 md:mt-0 flex-[1] px-2 ">
+          <p className="text-sm md:text-base font-light w-full md:max-w-[50%] mt-4 md:mt-0 flex-[1] lg:px-2 ">
             Funding handshake buyer business-to-business metrics iPad
             partnership. First mover advantage innovator success deployment
             non-disclosure.

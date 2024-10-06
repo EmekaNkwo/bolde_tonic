@@ -22,7 +22,7 @@ const Footer = () => {
     <div className="lg:p-[9rem] p-[2rem] flex flex-col gap-[2rem] items-center justify-center bg-white">
       <div className="lg:w-[80%] w-full lg:p-[4.8rem] p-[2rem] rounded-[12px] flex justify-center items-center flex-col bg-primaryColor gap-4 relative overflow-hidden">
         <div className="hidden lg:block absolute -top-[160%] -right-[20%] w-[780px] h-[780px]  bg-[#1C3D5B] rounded-full transform rotate-45"></div>
-        <h2 className="lg:text-[48px] text-[28px]  text-white text-center w-full lg:w-[70%] z-40">
+        <h2 className="lg:text-[48px] text-[24px]  text-white text-center w-full lg:w-[70%] z-40">
           An enterprise template to ramp up your company website
         </h2>
         <div className="flex flex-col md:flex-row gap-4 mt-[2rem]">
@@ -44,7 +44,7 @@ const Footer = () => {
               Boldo
             </span>
           </div>
-          <p className="w-[50%] leading-[2rem] text-greyColor font-[300]">
+          <p className="lg:w-[50%] leading-[2rem] text-greyColor font-[300]">
             Social media validation business model canvas graphical user
             interface launch party creative facebook iPad twitter.
           </p>

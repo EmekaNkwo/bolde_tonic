@@ -10,30 +10,30 @@ const OurBlog = () => {
         </p>
         <hr />
         <div className="grid grid-cols-1 gap-16 py-[4rem] text-white">
-          <div className="flex justify-between items-start flex-col lg:flex-row">
+          <div className="flex lg:justify-between lg:items-start items-center flex-col lg:flex-row">
             <span className="flex-[1] font-manrope font-[300] lg:text-[48px] text-[28px]">
               We are <span className="text-greenColor">committed</span>
             </span>
-            <p className="flex-[1] font-[300] text-[#f1f1f1] mt-[0.5rem]">
+            <p className="flex-[1] font-[300] text-[#f1f1f1] text-center lg:text-left mt-[0.5rem]">
               Conversion angel investor entrepreneur first mover advantage.
               Handshake infographic mass market crowdfunding iteration.{" "}
             </p>
           </div>
-          <div className="flex justify-between items-start flex-col lg:flex-row">
+          <div className="flex lg:justify-between lg:items-start items-center flex-col lg:flex-row">
             <span className="flex-[1] font-manrope font-[300] lg:text-[44px] text-[28px]">
               We are <span className="text-greenColor">responsible</span>
             </span>
-            <p className="flex-[1] font-[300] text-[#f1f1f1] mt-[0.5rem]">
+            <p className="flex-[1] font-[300] text-[#f1f1f1] text-center lg:text-left mt-[0.5rem]">
               Mass market iPhone buzz conversion analytics stock iteration
               responsive web design user experience business plan handshake.
               Return on investment seed round MVP backing supply chain.
             </p>
           </div>
-          <div className="flex justify-between items-start flex-col lg:flex-row">
+          <div className="lex lg:justify-between lg:items-start items-center flex-col lg:flex-row">
             <span className="flex-[1] font-manrope font-[300] lg:text-[44px] text-[28px]">
               We aim for <span className="text-greenColor">progress</span>
             </span>
-            <p className="flex-[1] font-[300] mt-[0.5rem]  text-[#f1f1f1]">
+            <p className="flex-[1] font-[300] text-[#f1f1f1] text-center lg:text-left mt-[0.5rem]">
               Bootstrapping rockstar first mover advantage business model canvas
               alpha deployment launch party beta facebook metrics gamification
               growth hacking customer focus.
