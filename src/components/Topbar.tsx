@@ -7,7 +7,7 @@ import { FaBars } from "react-icons/fa";
 const Topbar: React.FC = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   return (
-    <div className="relative flex items-center justify-between py-4 ">
+    <div className="relative flex items-center justify-between py-2 ">
       <div className="flex items-center gap-2">
         <IconLogo />
         <span className="font-bold font-manrope text-2xl md:text-3xl text-primaryColor">

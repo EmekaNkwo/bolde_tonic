@@ -3,7 +3,7 @@ import Topbar from "../Topbar";
 
 const AboutHeader: React.FC = () => {
   return (
-    <div className="flex flex-col gap-3 bg-greenColor py-12 px-6 md:px-16">
+    <div className="flex flex-col gap-3 bg-greenColor p-6 md:px-16">
       <Topbar />
       <div className="flex flex-col gap-2 my-12">
         <span className="font-light">About</span>
