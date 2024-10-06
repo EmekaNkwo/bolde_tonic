@@ -1,4 +1,4 @@
-# Boldo Project [Live Demo](https://nextjs.org/)
+# Boldo Project [Live Demo](https://boldo-tonic-emeka.netlify.app/about)
 
 This is a frontend assessment project built with [Next.js](https://nextjs.org/), styled using [Tailwind CSS](https://tailwindcss.com/), and linted with [ESLint](https://eslint.org/). The project is fully responsive, ensuring an optimal user experience on both desktop and mobile devices.
 
