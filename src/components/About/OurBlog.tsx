@@ -29,7 +29,7 @@ const OurBlog = () => {
               Return on investment seed round MVP backing supply chain.
             </p>
           </div>
-          <div className="lex lg:justify-between lg:items-start items-center flex-col lg:flex-row">
+          <div className="flex lg:justify-between lg:items-start items-center flex-col lg:flex-row">
             <span className="flex-[1] font-manrope font-[300] lg:text-[44px] text-[28px]">
               We aim for <span className="text-greenColor">progress</span>
             </span>
