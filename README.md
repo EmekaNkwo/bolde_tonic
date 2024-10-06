@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Boldo Project [Live Demo](https://nextjs.org/)
 
-## Getting Started
+This is a frontend assessment project built with [Next.js](https://nextjs.org/), styled using [Tailwind CSS](https://tailwindcss.com/), and linted with [ESLint](https://eslint.org/). The project is fully responsive, ensuring an optimal user experience on both desktop and mobile devices.
 
-First, run the development server:
+## Table of Contents
+
+- [Tech Stack](#tech-stack)
+- [Features](#features)
+- [Setup and Installation](#setup-and-installation)
+
+## Tech Stack
+
+- **Next.js** - React framework for server-side rendering and static site generation
+- **Tailwind CSS** - Utility-first CSS framework for styling
+- **ESLint** - Linting tool to ensure code quality and consistency
+
+## Features
+
+- **Responsive Design:** The app is fully responsive, adjusting to various screen sizes (mobile, tablet, and desktop).
+- **Tailwind CSS:** Efficient and scalable styling approach.
+- **Code Quality:** ESLint is configured to ensure adherence to coding standards and best practices.
+
+## Setup and Installation
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/EmekaNkwo/bolde_tonic
+cd bolde_tonic
+
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.

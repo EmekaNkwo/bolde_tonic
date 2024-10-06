@@ -8,8 +8,8 @@ export default function Home() {
     router.push("/about");
   }, [router]);
   return (
-    <div className="">
-      <h1>Home</h1>
+    <div className="text-center p-5">
+      <h1>Redirecting...</h1>
     </div>
   );
 }
