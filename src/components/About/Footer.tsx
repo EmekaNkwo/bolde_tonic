@@ -40,7 +40,7 @@ const Footer = () => {
         <div className="flex flex-col gap-[2rem]">
           <div className="flex items-center gap-3">
             <IconLogo />
-            <span className="font-manrope font-[300] text-[48px] text-primaryColor">
+            <span className="font-manrope font-[300] text-[48px] text-primaryColor mt-[0.2rem]">
               Boldo
             </span>
           </div>
