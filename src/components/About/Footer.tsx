@@ -53,7 +53,7 @@ const Footer = () => {
           </span>
         </div>
         <hr className="lg:hidden " />
-        <div className="flex justify-between flex-wrap gap-[1.5rem]">
+        <div className="flex justify-between flex-wrap gap-[1.5rem] lg:mt-[1rem]">
           <FooterColumn
             title="Landings"
             links={["Home", "Products", "Services"]}
